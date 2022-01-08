@@ -1,7 +1,6 @@
-<h1 align= "center">Hey there 👋!</h1>
+<h1 align= "center">Welcome to my github 👋!</h1>
 
 <div align="center">
-<h3>Welcome to my github!</h3>
 I go by 0xSinTax but you can call me Sin. I'm currently a cyber security student aspiring to transition in to the industry in 2022. 
 </div>
 
