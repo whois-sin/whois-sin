@@ -1,18 +1,28 @@
-<h1 align= "center">Welcome to my github 👋!</h1>
+<h3 align= "center">Welcome to my GitHub 👋!</h3>
 
-<div align="center">
-I go by 0xSinTax but you can call me Sin. I'm currently a cyber security student aspiring to transition in to the industry in 2022. 
-</div>
+----------
+
+<h4>&gt;_ About Me</h4>
+🐱‍👓 I go by 0xSinTax but you can call me Sin. </br>
+✨ I'm currently a cyber security student aspiring to transition in to the industry in 2022.
+
+<h4>&gt;_ Current Projects</h4>
+🍯 Honey Pot on AWS. </br>
+🔬 Active Directory Attack and Defense Lab.
+
+<h4>&gt;_ Currently Learning</h4>
+🎯 Junior Pentesting Path on Try Hack Me.</br>
 
 </br>
-
 <div align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xSinTax&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xSinTax&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics"></a>
+</div>
+
 
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSinTax&theme=react&border_radius=25&hide=issues&langs_count=4&custom_title=Top%20Languages" />
--->
+
   
 </br>
 </a>
@@ -26,17 +36,10 @@ I go by 0xSinTax but you can call me Sin. I'm currently a cyber security student
     <img src="https://komarev.com/ghpvc/?username=0xSinTax&color=blue"/>
 </a>
 </div>
+-->
 
 <!--
-**0xSinTax/0xSinTax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h4>&gt;_ Looking to Collaborate on</h4>
+<li>👯 I’m looking to collaborate on ...</li>
+-->
 
