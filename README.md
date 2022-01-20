@@ -13,8 +13,6 @@
 <h4>&gt;_ Currently Learning</h4>
 🎯 Junior Pentesting Path on Try Hack Me.</br>
 
-</br>
-
 ----------
 
 <div align="center">  
