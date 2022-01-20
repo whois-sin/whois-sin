@@ -6,7 +6,7 @@
     <script src="https://kit.fontawesome.com/289ee3d441.js" crossorigin="anonymous"></script>
 </html>
 -->
-<h3 align= "center">Welcome to my GitHub 👋!</h3>
+<h2 align= "center">Welcome to my GitHub 👋!</h2>
 
 ----------
 <body>
