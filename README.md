@@ -18,7 +18,7 @@
 <h4>&gt;_ 2022 Goals</h4>
 &emsp;🐱‍👤 Get a role as an Associate/Junior Pentetration Tester by Summer 2022.</br>
 &emsp;➕ CompTIA Security + by February 2022. </br>
-&emsp;🐲 OSCP by Fall 2022 </br>
+&emsp;🐲 OSCP by Fall 2022. </br>
 
 <h4>&gt;_ Current Projects</h4>
 &emsp;🍯 Honey Pot on AWS. </br>
@@ -27,7 +27,7 @@
 
 <h4>&gt;_ Currently Studying/Learning</h4>
 &emsp;🎯 Junior Pentesting Path on Try Hack Me.</br>
-&emsp;#️⃣❗ Scripting for automated tasks and exploits </br>
+&emsp;#️⃣❗ Scripting for automated tasks and exploits. </br>
 &emsp;📃 TJ Nulls List of Vulnerable Machines for OSCP Prep.
 
 ----------
