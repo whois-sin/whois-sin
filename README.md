@@ -12,7 +12,7 @@
 <body>
 <h4>&gt;_ About Me</h4>
 &emsp;🐱‍👓 I go by 0xSinTax but you can call me Sin. </br>
-&emsp;✨ I'm currently a cyber security student graduating in late February, aspiring to transition in to the industry as an in 2022. </br>
+&emsp;✨ I'm currently a cyber security student graduating in late February, aspiring to transition in to the industry in 2022. </br>
 &emsp;🤖 I run an each/one teach one model on a discord server for my current cohort with over 80 participants students and alumni. 
 
 <h4>&gt;_ 2022 Goals</h4>
