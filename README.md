@@ -11,23 +11,25 @@
 ----------
 <body>
 <h4>&gt;_ About Me</h4>
-&emsp;🐱‍👓 I go by 0xSinTax but you can call me Sin. </br>
+&emsp;🧥 I go by 0xSinTax but you can call me Sin. </br>
 &emsp;✨ I'm currently a cyber security student graduating in late February, aspiring to transition in to the industry in 2022. </br>
-&emsp;🤖 I run an each/one teach one model on a discord server for my current cohort with over 80 participants students and alumni. 
+&emsp;🤖 I run an each one teach one model on a discord server for my current cohort with over 80 participants students and alumni. 
 
 <h4>&gt;_ 2022 Goals</h4>
-&emsp;🐱‍👤 Get a role as an Associate/Junior Pentetration Tester by Summer 2022.</br>
-&emsp;➕ CompTIA Security + by February 2022. </br>
 &emsp;🐲 OSCP by Fall 2022. </br>
+&emsp;➕ CompTIA Security + by February 2022. </br>
+&emsp;🥋 Role as an Associate/Junior Pentetration Tester by Summer 2022.</br>
+
+
 
 <h4>&gt;_ Current Projects</h4>
 &emsp;🍯 Honey Pot on AWS. </br>
 &emsp;🔬 Active Directory Attack and Defense Lab.</br>
-&emsp;📝 Creating content for Vulnerable Machines and CTF's completed.
+&emsp;🧩 Creating content for Vulnerable Machines and CTF's completed.
 
 <h4>&gt;_ Currently Studying/Learning</h4>
 &emsp;🎯 Junior Pentesting Path on Try Hack Me.</br>
-&emsp;#️⃣❗ Scripting for automated tasks and exploits. </br>
+&emsp;🔂 Scripting for automated tasks and custom exploits. </br>
 &emsp;📃 TJ Nulls List of Vulnerable Machines for OSCP Prep.
 
 ----------
