@@ -8,7 +8,6 @@
 -->
 <h2 align= "center">Welcome to my GitHub 👋!</h2>
 
-----------
 <body>
 <h4>&gt;_ About Me</h4>
 &emsp;🧥 I go by 0xSinTax but you can call me Sin. </br>
