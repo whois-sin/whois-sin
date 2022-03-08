@@ -16,7 +16,7 @@
 
 <h4>&gt;_ 2022 Goals</h4>
 &emsp;🐲 OSCP by Fall 2022. </br>
-&emsp;➕ CompTIA Security + by February 2022. </br>
+&emsp;➕ CompTIA Security + by March 2022. </br>
 &emsp;🥋 Role as an Associate/Junior Pentetration Tester by Summer 2022.</br>
 
 
