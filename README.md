@@ -35,7 +35,7 @@
 
 <div align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xSinTax&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics"></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whois-sin&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics"></a>
 </div>
 
 
