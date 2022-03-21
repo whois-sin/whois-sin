@@ -29,6 +29,5 @@
 ----------
 
 <div align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=whois-sin&theme=github&bg_color=20232a&hide_border=true" width="90%"/>
 </div>
