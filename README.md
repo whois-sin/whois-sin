@@ -22,7 +22,7 @@
 &emsp;🧩 Creating content for Vulnerable Machines and CTF's completed.
 
 <h4>&gt;_ Currently Studying/Learning</h4>
-&emsp;🎯 Junior Pentesting Path on Try Hack Me.</br>
+&emsp;🎯 Bug Bounty Path on Hack the Box Academy.</br>
 &emsp;🔂 Scripting for automated tasks and custom exploits. </br>
 &emsp;📃 TJ Nulls List of Vulnerable Machines for OSCP Prep.
 
