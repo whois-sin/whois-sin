@@ -8,7 +8,7 @@
 <body>
 <h4>&gt;_ About Me</h4>
 &emsp;🧥 I go by Sin and I live by the kaizen philosophy. </br>
-&emsp;✨ I'm a recent cyber security grad, aspiring to transition in to the industry in 2022. </br>
+&emsp;✨ I'm a recent cyber security grad, aspiring to transition into the industry in 2022. </br>
 &emsp;🤖 I run an each one teach one model in a discord server with over 100 participants, students and alumni. 
 
 <h4>&gt;_ 2022 Goals</h4>
