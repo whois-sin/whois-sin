@@ -12,14 +12,14 @@
 &emsp;🤖 I run an each one teach one model in a discord server with over 100 participants, students and alumni. 
 
 <h4>&gt;_ 2022 Goals</h4>
-&emsp;🐲 OSCP by Fall 2022. </br>
-&emsp;➕ CompTIA Security + ✅ </br>
-&emsp;🥋 Role as an Associate/Junior Pentetration Tester by Summer 2022.</br>
+&emsp;🐲 OSCP by the end of 2022 </br>
+&emsp;➕ ✅ (Mar.) CompTIA Security + </br>
+&emsp;🥋 ✅ (Jun.) Role as an Associate/Junior Pentetration Tester by Summer 2022</br>
 
 <h4>&gt;_ Recent/Current Projects</h4>
-&emsp;🍯 Honey Pot on AWS. </br>
-&emsp;🔬 Active Directory Attack and Defense Lab.</br>
-&emsp;🧩 Creating content for Vulnerable Machines and CTF's completed.
+&emsp;🍯 ✅ Honey Pot on AWS </br>
+&emsp;🔬 ✅ Active Directory Attack and Defense Lab </br>
+&emsp;🧩 Creating content for Vulnerable Machines and CTF's completed
 
 <h4>&gt;_ Currently Studying/Learning</h4>
 &emsp;🎯 Bug Bounty Path on Hack the Box Academy.</br>
