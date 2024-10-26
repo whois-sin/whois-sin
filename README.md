@@ -5,9 +5,9 @@
 &emsp;🧥 I go by Sin and I live by the kaizen philosophy. </br>
 &emsp;🤖 I run an each one teach one model in a discord server with over 100 participants, students and alumni. 
 
-<h4>&gt;_ 2022 Goals</h4>
+<!--<h4>&gt;_ 2022 Goals</h4>
 &emsp;🌥 AWS Solutions Architect by the last quarter of 2022 </br>
-&emsp;🥋 ✅ (Jun.) Role as an Associate/Junior Pentetration Tester by Summer 2022</br>
+&emsp;🥋 ✅ (Jun.) Role as an Associate/Junior Pentetration Tester by Summer 2022</br>-->
 
 
 
